@@ -1,0 +1,6 @@
+{
+  "name": "EduLearn",
+  "description": "EduLearn Learning Platform with Mobile Login & Admin Access Guard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
